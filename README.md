@@ -6,6 +6,7 @@ I.e this list will be organized according to the lessons in the material so expe
 ## Entrepreneurial pursuit 
 1. [Interact with customers and double your revenue](https://medium.com/swlh/how-i-doubled-my-revenue-by-breaking-up-with-amazon-bd2718b405ae)
 2. [Making money from your website](https://entrepreneurs.maqtoob.com/10-easy-ways-to-immediately-profit-from-your-online-business-2973725ae9a0)
+3. [Bootstrapping a business](https://hackernoon.com/how-we-bootstrapped-our-no-code-web-development-startup-to-a-team-of-20-in-2-years-5d12f84f9824)
 
 
 ## Teamwork

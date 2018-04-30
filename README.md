@@ -16,5 +16,8 @@ I.e this list will be organized according to the lessons in the material so expe
 ## Automation 
 1. [Trading Automation](https://www.investopedia.com/articles/trading/11/automated-trading-systems.asp)
 
+## Database Admin
+1. [Data Migrations with Ecto](https://hashrocket.com/blog/posts/ecto-migrations-simple-to-complex)
+
 ## Debugging 
 1. [What a months long debugging session looks like (erlang)](https://blog.heroku.com/logplex-down-the-rabbit-hole) 

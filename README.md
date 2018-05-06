@@ -13,6 +13,9 @@ I.e this list will be organized according to the lessons in the material so expe
 1. [Working as an Engineering team](https://robots.thoughtbot.com/making-decisions-and-keeping-a-product-team-firing-on-all-cylinders)
 2. [Networking as a Professional](https://medium.com/swlh/how-to-be-realistic-about-networking-9c3d7621ad1c)
 
+## Marketing
+1. [Marketing in Africa](https://www.mediaupdate.co.za/marketing/142525/how-to-engage-the-african-consumer-with-your-marketing-campaign)
+
 ## Automation 
 1. [Trading Automation](https://www.investopedia.com/articles/trading/11/automated-trading-systems.asp)
 

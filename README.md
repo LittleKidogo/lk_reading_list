@@ -12,6 +12,7 @@ I.e this list will be organized according to the lessons in the material so expe
 ## Teamwork
 1. [Working as an Engineering team](https://robots.thoughtbot.com/making-decisions-and-keeping-a-product-team-firing-on-all-cylinders)
 2. [Networking as a Professional](https://medium.com/swlh/how-to-be-realistic-about-networking-9c3d7621ad1c)
+3. [Interviewing Respectfully](https://hackernoon.com/things-you-should-never-say-when-interviewing-for-a-developer-role-138609321d7b)
 
 ## Marketing
 1. [Marketing in Africa](https://www.mediaupdate.co.za/marketing/142525/how-to-engage-the-african-consumer-with-your-marketing-campaign)

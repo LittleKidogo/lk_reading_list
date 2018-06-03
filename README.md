@@ -8,6 +8,7 @@ I.e this list will be organized according to the lessons in the material so expe
 2. [Making money from your website](https://entrepreneurs.maqtoob.com/10-easy-ways-to-immediately-profit-from-your-online-business-2973725ae9a0)
 3. [Bootstrapping a business](https://hackernoon.com/how-we-bootstrapped-our-no-code-web-development-startup-to-a-team-of-20-in-2-years-5d12f84f9824)
 4. [Structuring your vision](https://medium.com/swlh/a-four-step-exercise-to-come-up-with-a-congruent-viable-compelling-vision-ee49e6d64a1d)
+5. [Developing Product Roadmaps](https://www.productplan.com/building-your-first-product-roadmap/)
 
 ## Teamwork
 1. [Working as an Engineering team](https://robots.thoughtbot.com/making-decisions-and-keeping-a-product-team-firing-on-all-cylinders)

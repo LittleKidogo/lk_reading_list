@@ -9,11 +9,13 @@ I.e this list will be organized according to the lessons in the material so expe
 3. [Bootstrapping a business](https://hackernoon.com/how-we-bootstrapped-our-no-code-web-development-startup-to-a-team-of-20-in-2-years-5d12f84f9824)
 4. [Structuring your vision](https://medium.com/swlh/a-four-step-exercise-to-come-up-with-a-congruent-viable-compelling-vision-ee49e6d64a1d)
 5. [Developing Product Roadmaps](https://www.productplan.com/building-your-first-product-roadmap/)
+6. [Finding the Right Project](https://google.github.io/gsocguides/student/finding-the-right-project.html)
 
 ## Teamwork
 1. [Working as an Engineering team](https://robots.thoughtbot.com/making-decisions-and-keeping-a-product-team-firing-on-all-cylinders)
 2. [Networking as a Professional](https://medium.com/swlh/how-to-be-realistic-about-networking-9c3d7621ad1c)
 3. [Interviewing Respectfully](https://hackernoon.com/things-you-should-never-say-when-interviewing-for-a-developer-role-138609321d7b)
+4. [Pair Programming the Why](https://tech.nested.com/pair-programming-and-github-coauthors-85028923b238)
 
 ## Marketing
 1. [Marketing in Africa](https://www.mediaupdate.co.za/marketing/142525/how-to-engage-the-african-consumer-with-your-marketing-campaign)

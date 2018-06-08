@@ -10,6 +10,7 @@ I.e this list will be organized according to the lessons in the material so expe
 4. [Structuring your vision](https://medium.com/swlh/a-four-step-exercise-to-come-up-with-a-congruent-viable-compelling-vision-ee49e6d64a1d)
 5. [Developing Product Roadmaps](https://www.productplan.com/building-your-first-product-roadmap/)
 6. [Finding the Right Project](https://google.github.io/gsocguides/student/finding-the-right-project.html)
+7. [Bootstrapping your business](https://abdoriani.com/startup-guides/a-step-by-step-guide-to-startup-bootstrapping-by-self-funding-and-pre-selling/)
 
 ## Teamwork
 1. [Working as an Engineering team](https://robots.thoughtbot.com/making-decisions-and-keeping-a-product-team-firing-on-all-cylinders)

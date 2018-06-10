@@ -33,6 +33,8 @@ I.e this list will be organized according to the lessons in the material so expe
 ## Debugging 
 1. [What a months long debugging session looks like (erlang)](https://blog.heroku.com/logplex-down-the-rabbit-hole)
 
+## [Parsing and Lexxing Languages](http://andrealeopardi.com/posts/tokenizing-and-parsing-in-elixir-using-leex-and-yecc/)
+
 ## Open Source 
 1. [Making first contact](https://google.github.io/gsocguides/student/making-first-contact.html)
 2. [How building open source projects looks like](https://whitfin.io/a-year-with-cachex-in-production/) 

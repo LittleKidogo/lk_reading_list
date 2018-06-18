@@ -30,6 +30,11 @@ I.e this list will be organized according to the lessons in the material so expe
 ## Mathematics
 1. [Math as a Language](https://medium.com/q-e-d/that-loser-woman-mathematician-who-changed-my-life-7df96e218eb1)
 
+
+## Geospatial 
+1. [GeoJson Format](https://tools.ietf.org/html/rfc7946)
+
+
 ## Debugging 
 1. [What a months long debugging session looks like (erlang)](https://blog.heroku.com/logplex-down-the-rabbit-hole)
 

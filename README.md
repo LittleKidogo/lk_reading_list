@@ -29,7 +29,7 @@ I.e this list will be organized according to the lessons in the material so expe
 
 ## Mathematics
 1. [Math as a Language](https://medium.com/q-e-d/that-loser-woman-mathematician-who-changed-my-life-7df96e218eb1)
-
+@. [Math is for Everyone](https://hackernoon.com/where-does-math-impostor-syndrome-come-from-73db0440ad26)
 
 ## Geospatial 
 1. [GeoJson Format](https://tools.ietf.org/html/rfc7946)

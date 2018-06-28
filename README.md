@@ -13,10 +13,11 @@ I.e this list will be organized according to the lessons in the material so expe
 7. [Bootstrapping your business](https://abdoriani.com/startup-guides/a-step-by-step-guide-to-startup-bootstrapping-by-self-funding-and-pre-selling/)
 
 ## Teamwork
-1. [Working as an Engineering team](https://robots.thoughtbot.com/making-decisions-and-keeping-a-product-team-firing-on-all-cylinders)
-2. [Networking as a Professional](https://medium.com/swlh/how-to-be-realistic-about-networking-9c3d7621ad1c)
-3. [Interviewing Respectfully](https://hackernoon.com/things-you-should-never-say-when-interviewing-for-a-developer-role-138609321d7b)
-4. [Pair Programming the Why](https://tech.nested.com/pair-programming-and-github-coauthors-85028923b238)
+1. [Gettings things Done as a Team](https://www2.le.ac.uk/offices/ld/resources/study/group-projects)
+2. [Working as an Engineering team](https://robots.thoughtbot.com/making-decisions-and-keeping-a-product-team-firing-on-all-cylinders)
+3. [Networking as a Professional](https://medium.com/swlh/how-to-be-realistic-about-networking-9c3d7621ad1c)
+4. [Interviewing Respectfully](https://hackernoon.com/things-you-should-never-say-when-interviewing-for-a-developer-role-138609321d7b)
+5. [Pair Programming the Why](https://tech.nested.com/pair-programming-and-github-coauthors-85028923b238)
 
 ## Marketing
 1. [Marketing in Africa](https://www.mediaupdate.co.za/marketing/142525/how-to-engage-the-african-consumer-with-your-marketing-campaign)

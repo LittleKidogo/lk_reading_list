@@ -12,6 +12,9 @@ I.e this list will be organized according to the lessons in the material so expe
 6. [Finding the Right Project](https://google.github.io/gsocguides/student/finding-the-right-project.html)
 7. [Bootstrapping your business](https://abdoriani.com/startup-guides/a-step-by-step-guide-to-startup-bootstrapping-by-self-funding-and-pre-selling/)
 
+## Remote Working
+1. [Working Remotely](https://pspdfkit.com/blog/2017/remote-work/)
+
 ## Teamwork
 1. [Gettings things Done as a Team](https://www2.le.ac.uk/offices/ld/resources/study/group-projects)
 2. [Working as an Engineering team](https://robots.thoughtbot.com/making-decisions-and-keeping-a-product-team-firing-on-all-cylinders)

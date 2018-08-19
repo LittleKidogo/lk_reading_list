@@ -28,6 +28,7 @@ I.e this list will be organized according to the lessons in the material so expe
 
 ## Marketing
 1. [Marketing in Africa](https://www.mediaupdate.co.za/marketing/142525/how-to-engage-the-african-consumer-with-your-marketing-campaign)
+2. [Reaching Millions](https://medium.com/s/story/to-reach-an-audience-of-million-create-for-an-audience-of-one-4e873b4ac998)
 
 ## Automation
 1. [Trading Automation](https://www.investopedia.com/articles/trading/11/automated-trading-systems.asp)

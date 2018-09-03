@@ -3,6 +3,10 @@
 This is a reading list used by the at [Little Kidogo](https://littlekidogo.co.za), it is organized according to reading context as opposed to genres.
 I.e this list will be organized according to the lessons in the material so expect contexts like Teamwork, Marketing, Organization, Management, Software Development, Design and much more.
 
+## Building Value Exchanges
+1. [Human Values](https://medium.com/what-to-build/human-values-a-quick-primer-b01ef9617925)
+
+
 ## Getting things done 
 1. [Calendars vs To-Do lists](https://medium.com/the-mission/why-calendars-are-more-effective-than-to-do-lists-9bc6ce3bee50)
 

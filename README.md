@@ -9,7 +9,7 @@ I.e this list will be organized according to the lessons in the material so expe
 
 ## Getting things done 
 1. [Calendars vs To-Do lists](https://medium.com/the-mission/why-calendars-are-more-effective-than-to-do-lists-9bc6ce3bee50)
-
+2. [Zen and the Art of Learning it](https://hackernoon.com/the-zen-of-motorcycling-and-programming-620907dbab2c)
 ## Entrepreneurial pursuit
 1. [Interact with customers and double your revenue](https://medium.com/swlh/how-i-doubled-my-revenue-by-breaking-up-with-amazon-bd2718b405ae)
 2. [Making money from your website](https://entrepreneurs.maqtoob.com/10-easy-ways-to-immediately-profit-from-your-online-business-2973725ae9a0)

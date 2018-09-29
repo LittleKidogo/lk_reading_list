@@ -29,6 +29,7 @@ I.e this list will be organized according to the lessons in the material so expe
 4. [Networking as a Professional](https://medium.com/swlh/how-to-be-realistic-about-networking-9c3d7621ad1c)
 5. [Interviewing Respectfully](https://hackernoon.com/things-you-should-never-say-when-interviewing-for-a-developer-role-138609321d7b)
 6. [Pair Programming the Why](https://tech.nested.com/pair-programming-and-github-coauthors-85028923b238)
+7. [Get Better as a Software Maker](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d)
 
 ## Marketing
 1. [Marketing in Africa](https://www.mediaupdate.co.za/marketing/142525/how-to-engage-the-african-consumer-with-your-marketing-campaign)

@@ -18,7 +18,7 @@ I.e this list will be organized according to the lessons in the material so expe
 5. [Developing Product Roadmaps](https://www.productplan.com/building-your-first-product-roadmap/)
 6. [Finding the Right Project](https://google.github.io/gsocguides/student/finding-the-right-project.html)
 7. [Bootstrapping your business](https://abdoriani.com/startup-guides/a-step-by-step-guide-to-startup-bootstrapping-by-self-funding-and-pre-selling/)
-
+8. [Deep Work](https://medium.com/swlh/deep-work-how-to-develop-the-most-valuable-skill-of-the-21st-century-5ab655e13a42)
 ## Remote Working
 1. [Working Remotely](https://pspdfkit.com/blog/2017/remote-work/)
 

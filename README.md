@@ -22,6 +22,7 @@ I.e this list will be organized according to the lessons in the material so expe
 6. [Finding the Right Project](https://google.github.io/gsocguides/student/finding-the-right-project.html)
 7. [Bootstrapping your business](https://abdoriani.com/startup-guides/a-step-by-step-guide-to-startup-bootstrapping-by-self-funding-and-pre-selling/)
 8. [Deep Work](https://medium.com/swlh/deep-work-how-to-develop-the-most-valuable-skill-of-the-21st-century-5ab655e13a42)
+9. [On Why Discipline Matters](https://firstround.com/review/the-founders-guide-to-discipline-lessons-from-fronts-mathilde-collin/?email=cespost@gmail.com&sdate=10/24/2018&name=)
 
 ## Remote Working
 

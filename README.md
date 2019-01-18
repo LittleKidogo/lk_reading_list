@@ -19,6 +19,7 @@ I.e this list will be organized according to the lessons in the material so expe
 6. [Finding the Right Project](https://google.github.io/gsocguides/student/finding-the-right-project.html)
 7. [Bootstrapping your business](https://abdoriani.com/startup-guides/a-step-by-step-guide-to-startup-bootstrapping-by-self-funding-and-pre-selling/)
 8. [Deep Work](https://medium.com/swlh/deep-work-how-to-develop-the-most-valuable-skill-of-the-21st-century-5ab655e13a42)
+
 ## Remote Working
 1. [Working Remotely](https://pspdfkit.com/blog/2017/remote-work/)
 
@@ -48,12 +49,16 @@ I.e this list will be organized according to the lessons in the material so expe
 
 ## Computer Science
 1. [Algorithm Complexity Analysis](http://discrete.gr/complexity/)
+
 ## Geospatial
 1. [GeoJson Format](https://tools.ietf.org/html/rfc7946)
 
 
 ## Debugging
 1. [What a months long debugging session looks like (erlang)](https://blog.heroku.com/logplex-down-the-rabbit-hole)
+
+## Authorization and Authentication 
+1. [Understand the difference](https://hexdocs.pm/phoenix/plug.html#function-plugs)
 
 ## Writing Languages
 1. [Parsing and Lexxing Languages](http://andrealeopardi.com/posts/tokenizing-and-parsing-in-elixir-using-leex-and-yecc/)

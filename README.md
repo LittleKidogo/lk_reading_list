@@ -1,9 +1,8 @@
 # The Little Kidogo Team Reading List
 
-This is a reading list used by the at [Little Kidogo](https://littlekidogo.co.za), it is organized according to reading context as opposed to genres.
-I.e this list will be organized according to the lessons in the material so expect contexts like Teamwork, Marketing, Organization, Management, Software Development, Design and much more.
+This is a reading list used by the team at [Little Kidogo](https://littlekidogo.co.za), it is organized according to reading context as opposed to genres i.e this list will be organized according to the lessons in the material. Topics that will be covered are centered on teamwork, marketing, organization and management, software design & development and much more.
 
-## Building Value Exchanges
+## Building Value Exchange
 
 1. [Human Values](https://medium.com/what-to-build/human-values-a-quick-primer-b01ef9617925)
 
